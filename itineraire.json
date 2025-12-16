@@ -1,0 +1,132 @@
+{
+  "pays": "Albanie",
+  "drapeau": "🇦🇱",
+  "symbole": "🦅",
+  "titre": "Gjirokaster: La Ville de Pierre et des Légendes",
+  "budget_total": "550€",
+  "duree": "2 jours",
+  "temps_vol": "2h30 depuis Paris (vol direct vers Tirana)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Gjirokaster: Premiers Pas dans la Ville de Pierre",
+      "legende": "Après un voyage depuis Paris et un transfert pittoresque à travers les paysages albanais, vous atteindrez Gjirokaster, la \"Ville de Pierre\". Prenez le temps de vous installer et de faire une première immersion douce dans l'atmosphère unique de cette cité classée à l'UNESCO. Laissez-vous charmer par ses toits d'ardoise et ses ruelles pavées qui racontent des siècles d'histoire.",
+      "lieu": "Gjirokaster",
+      "activites": [
+        "🛬 <strong>Arrivée et Transfert</strong>: Vol de Paris à Tirana, puis transfert en bus ou taxi partagé vers Gjirokaster. Ce trajet offre un aperçu des paysages montagneux de l'Albanie.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez possession de votre chambre dans un hôtel 3 étoiles, souvent une maison d'hôtes traditionnelle rénovée, offrant un confort authentique.",
+        "🚶‍♂️ <strong>Balade légère dans le Vieux Bazar</strong>: En fin d'après-midi, explorez les premières ruelles du Vieux Bazar. C'est l'occasion de sentir l'ambiance locale et d'admirer l'architecture ottomane."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil Transport",
+          "texte": "Le trajet Tirana-Gjirokaster dure environ 3-4 heures. Les bus partent régulièrement de la gare routière sud de Tirana. Prévoyez de l'eau et des snacks."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Hébergement",
+          "texte": "De nombreux hôtels 3 étoiles à Gjirokaster sont d'anciennes maisons ottomanes restaurées, offrant une expérience immersive et un excellent rapport qualité-prix."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Exploration du Patrimoine et des Panoramas",
+      "legende": "Cette journée est dédiée à la découverte approfondie des trésors de Gjirokaster. Du majestueux château qui domine la ville aux maisons-tours emblématiques, chaque pas révèle une histoire. Imprégnez-vous de la culture locale en explorant les musées et en savourant la cuisine traditionnelle, tout en profitant des vues imprenables sur la vallée du Drino.",
+      "lieu": "Gjirokaster",
+      "activites": [
+        "🏰 <strong>Visite du Château de Gjirokaster</strong>: Explorez cette forteresse imposante, l'une des plus grandes des Balkans. Elle abrite un musée d'armes et offre des vues panoramiques spectaculaires sur la ville et les montagnes environnantes.",
+        "🏡 <strong>Découverte de la Maison Zekate</strong>: Admirez l'architecture unique de cette maison-tour ottomane du début du XIXe siècle, considérée comme l'un des plus beaux exemples de l'architecture de Gjirokaster. Ses intérieurs richement décorés sont fascinants.",
+        "🍽️ <strong>Dégustation de la cuisine locale</strong>: Savourez un déjeuner traditionnel dans une taverne locale. Ne manquez pas le qifqi (boulettes de riz) ou le pasha qofte (boulettes de viande)."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "La Ville aux Mille Marches",
+          "texte": "Gjirokaster est très vallonnée. Préparez-vous à marcher sur des pavés et des pentes raides. De bonnes chaussures sont essentielles."
+        },
+        {
+          "symbole": "🏛️",
+          "titre": "Musée Ethnographique",
+          "texte": "Si le temps le permet, visitez le Musée Ethnographique, situé dans la maison natale d'Enver Hoxha, pour un aperçu de la vie traditionnelle albanaise."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "280€/pers (Vol A/R Paris-Tirana en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Transferts A/R Tirana-Gjirokaster en bus/taxi partagé)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "70€/pers (2 petits-déjeuners, 2 déjeuners, 2 dîners dans des restaurants locaux)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "120€/pers (2 nuits en hôtel 3 étoiles ou maison d'hôtes traditionnelle)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "12€/pers (Entrées au Château de Gjirokaster et à la Maison Zekate)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril, mai, septembre et octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "L'Albanie est un pays des Balkans, connu pour ses montagnes, ses plages et son riche patrimoine historique. La population est d'environ 2,8 millions d'habitants.",
+      "symbole": "🇦🇱"
+    },
+    {
+      "titre": "La monnaie est le Lek albanais (ALL). Les cartes bancaires sont acceptées dans les grandes villes, mais il est conseillé d'avoir du liquide pour les petits commerces et les zones rurales.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Gjirokaster est surnommée la \"Ville de Pierre\" en raison de son architecture unique avec des toits en ardoise et des maisons fortifiées. C'est aussi le lieu de naissance de l'écrivain Ismail Kadare et de l'ancien dictateur Enver Hoxha.",
+      "symbole": "💡"
+    },
+    {
+      "titre": "La langue officielle est l'albanais. L'anglais est parlé dans les zones touristiques, et l'italien est également courant.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur l'Albanie",
+      "titre": "Albanian National Tourism Agency",
+      "url": "https://albania.al/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Aéroport International de Tirana (TIA)",
+      "titre": "Tirana International Airport",
+      "url": "https://www.tirana-airport.com/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo pour Gjirokaster",
+      "titre": "Météo Gjirokaster",
+      "url": "https://www.accuweather.com/fr/al/gjirokaster/222509/weather-forecast/222509",
+      "symbole": "🌤️"
+    }
+  ]
+}
